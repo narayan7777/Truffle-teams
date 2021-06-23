@@ -72,6 +72,13 @@ module.exports = {
     // network_id: 2111,   // This network is yours, in the cloud.
     // production: true    // Treats this network as if it was a public net. (default: false)
     // }
+
+    teams: {
+      url:
+        "https://sandbox.truffleteams.com/7b9215eb-c4d0-4400-976a-16d859e23f6d",
+      network_id: 1,
+    },
+
   },
 
   // Set default mocha options here, use special reporters etc.
